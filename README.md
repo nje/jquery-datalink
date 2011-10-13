@@ -1,11 +1,5 @@
-## This repository is no longer the home of the official jQuery Data Link plugin, which is now at [https://github.com/jquery/jquery-datalink](https://github.com/jquery/jquery-datalink).
+## This repository is not the home of the official jQuery Data Link plugin, which is at [http://github.com/jquery/jquery-datalink](http://github.com/jquery/jquery-datalink).
 
-The code source has been removed in the latest commit, to prevent confusion, leaving just this readme.
+**_Note_: The jQuery Data Link plugin will not continue past beta, but will instead be superceded by [JsViews](https://github.com/BorisMoore/jsviews), which integrates data linking with templated rendering, using [JsRender templates](https://github.com/BorisMoore/jsrender) (next-generation jQuery Templates).**
 
-### History of this repository
-This repository was originally created here, but was later adopted by jQuery as an _Official jQuery Plugin_. 
-
-See <a href="http://www.borismoore.com/2010/10/jquery-templates-is-now-official-jquery.html">http://www.borismoore.com/2010/10/jquery-templates-is-now-official-jquery.html</a> for more background. 
-
-The code that was in this repository was therefore pulled into the main <a href="https://github.com/jquery/jquery-datalink">jquery/jquery-datalink</a> repository, which is now the <strong>official _JQuery Data Link_ plugin repository</strong>. (The pulled code is the Beta1 release of the official plugin). 
-
+**See [this blog post](http://www.borismoore.com/2011/10/jquery-templates-and-jsviews-roadmap.html) for more context on the roadmap for jQuery Templates, JsRender and JsViews...** 
